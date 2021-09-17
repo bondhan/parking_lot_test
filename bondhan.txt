@@ -1,0 +1,5 @@
+create_parking_lot 2
+park KA-01-HH-1234 White
+park KA-01-HH-9999 White
+leave 3
+exit
