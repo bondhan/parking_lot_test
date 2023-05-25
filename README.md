@@ -6,6 +6,8 @@ problem statement described below.
 This code will be given to a candidate coming for an onsite interview so that
 they can tak take the implementation forward.
 
+For Gojek technical test.
+
 ## Requirements
 
 1. go - 1.13
